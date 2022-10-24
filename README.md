@@ -3,4 +3,4 @@
 - 🌱 I am currently learning front end and english in duolingo and busuu with guaranteed certification
 - 📫 How to reach me: my mail is gonzaloo-georgetti@hotmail.com.ar and my telephone number is 3534243914
 
-A continuacion les presento un proyecto mio en la que he creado una pagina web con html codificado en sublime text:
+A continuacion les presento un proyecto mio en la que he creado una pagina web con html codificado en sublime text
